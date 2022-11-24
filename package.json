@@ -1,0 +1,26 @@
+{
+  "name": "sit725_t3_practicle2",
+  "version": "1.0.0",
+  "description": "SIT725 Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hundaljasz/SIT725_T3_PRACTICLE2.git"
+  },
+  "keywords": [
+    "Express",
+    "Node"
+  ],
+  "author": "jaskirat Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hundaljasz/SIT725_T3_PRACTICLE2/issues"
+  },
+  "homepage": "https://github.com/hundaljasz/SIT725_T3_PRACTICLE2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
